@@ -19,7 +19,7 @@ Proyek kalkulator berbasis web yang dibuat bareng **Handaru** dan **MeonXD**. Pa
 ## Kontribusi
 
 1. Fork repo ini.
-2. Bikin branch baru buat fitur yang mau ditambah.
+2. Bikin branch baru dan buat fitur yang mau ditambah.
 3. Kirim pull request ke branch utama.
 4. simpel kan
 
